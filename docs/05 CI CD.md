@@ -183,3 +183,4 @@ jobs:
 - er gebeurt nu niets. Ik ga opnieuw proberen met de workflow in de originele map en de verwijzing naar de path van requirements.txt
 - de build faalt opnieuw ![alt text](image-36.png)
 - ik krijg dezelfde foutmelding, dus verplaats ik requirements.txt naar de hoofdmap van mijn project (it-landscape-project)
+- ik krijg een nieuwe foutmelding en ben dus al verder geraakt ![alt text](image-37.png) ![alt text](image-38.png)
