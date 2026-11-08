@@ -184,3 +184,4 @@ jobs:
 - de build faalt opnieuw ![alt text](image-36.png)
 - ik krijg dezelfde foutmelding, dus verplaats ik requirements.txt naar de hoofdmap van mijn project (it-landscape-project)
 - ik krijg een nieuwe foutmelding en ben dus al verder geraakt ![alt text](image-37.png) ![alt text](image-38.png)
+- ik heb hulp gevraagd aan Copilot omdat ik er zelf niet uit geraak. Die geeft aan dat ik moet verwijzen naar de juiste submap. Op hoop van zegen. 
