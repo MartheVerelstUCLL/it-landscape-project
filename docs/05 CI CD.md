@@ -181,3 +181,5 @@ jobs:
 - er is iets niet goed gegaan: ![alt text](image-34.png) ![alt text](image-35.png)
 - ik denk dat ik het kan oplossen door /workflows en de inhoud te verplaatsen naar de map van de applicatie, dus dat ga ik proberen. Ik stage mijn changes en commit opnieuw. 
 - er gebeurt nu niets. Ik ga opnieuw proberen met de workflow in de originele map en de verwijzing naar de path van requirements.txt
+- de build faalt opnieuw ![alt text](image-36.png)
+- ik krijg dezelfde foutmelding, dus verplaats ik requirements.txt naar de hoofdmap van mijn project (it-landscape-project)
