@@ -176,3 +176,5 @@ jobs:
 
 
 - ik wil natuurlijk liefst mijn versie gebruiken, dus verwijder ik het bestand dat Copilot voor mij gemaakt had en maak ik het aan via GitHub ![alt text](image-33.png)
+- ik commit via GitHub en gebruik pull om de workflow in VS Code te krijgen 
+- nu zou een push naar main de workflow moeten triggeren, dus ik ga dit document pushen naar GitHub. 
