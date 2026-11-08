@@ -180,4 +180,4 @@ jobs:
 - nu zou een push naar main de workflow moeten triggeren, dus ik ga dit document pushen naar GitHub. 
 - er is iets niet goed gegaan: ![alt text](image-34.png) ![alt text](image-35.png)
 - ik denk dat ik het kan oplossen door /workflows en de inhoud te verplaatsen naar de map van de applicatie, dus dat ga ik proberen. Ik stage mijn changes en commit opnieuw. 
-- er gebeurt nu niets. Ik ga opnieuw proberen. 
+- er gebeurt nu niets. Ik ga opnieuw proberen met de workflow in de originele map en de verwijzing naar de path van requirements.txt
