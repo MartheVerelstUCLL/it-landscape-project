@@ -7,7 +7,7 @@ NovaDesk is een intern ticketsysteem. Het helpt medewerkers en support om klanta
 ## Hoe meld je je aan?
 Om NovaDesk te kunnen gebruiken, heb je een account nodig.
 1. Ga naar NovaDesk. Je ziet eerst een loginscherm. ![alt text](image.png)
-2. Meld je aan met je e-mailadres en bijbehorend wachtwoord ![alt text](image-1.png)
+2. Meld je aan met je e-mailadres en bijbehorend wachtwoord ![alt text](image-47.png)
 3. Klik op 'Login'.
 4. Proficiat! Je bent aangemeld.
 
@@ -22,20 +22,20 @@ Afhankelijk van je functie krijg je een bepaalde rol toegewezen.
 | Viewer | Kan aanvragen en details bekijken, maar geen wijzigingen aanbrengen. |
 
 ## Hoe bekijk ik een aanvraag? 
-- Zodra je ingelogd bent, kom je bij het Dashboard. Dit is de overzichtspagina. ![alt text](image-2.png)
+- Zodra je ingelogd bent, kom je bij het Dashboard. Dit is de overzichtspagina. ![alt text](image-46.png)
 Je ziet hier in één oogopslag hoeveel requests er zijn, hoeveel er openstaan en hoeveel er dringend zijn. Open requests zijn enkel de requests in status 'new' en 'in progress'. 
 - Onderaan de pagina zie je recente aanvragen. Je kan hierop klikken om een van de meest recente issues in detail te bekijken.
 - Via 'Requests' rechtsboven kom je bij een lijst van alle requests. 
 
 
 ## Hoe maak ik een nieuwe aanvraag?
-1. Klik op 'New request' rechtsboven in de balk of op de overzichtspagina ![alt text](image-3.png)
-2. Vul je formulier in. Zorg ervoor dat je zeker een titel en categorie hebt aangeduid, maar bij voorkeur vul je alle velden behalve 'assigned to' in. ![alt text](image-4.png)
-3. Klik onderaan op 'Save request'. Proficiat, je request is aangemaakt! ![alt text](image-5.png)
+1. Klik op 'New request' rechtsboven in de balk of op de overzichtspagina ![alt text](image-49.png)
+2. Vul je formulier in. Zorg ervoor dat je zeker een titel en categorie hebt aangeduid, maar bij voorkeur vul je alle velden behalve 'assigned to' in. ![alt text](image-50.png)
+3. Klik onderaan op 'Save request'. Proficiat, je request is aangemaakt! ![alt text](image-51.png)
 
 ## Hoe zoek ik aanvragen?
 1. Ga naar de overzichtspagina ('Requests' rechtsboven in je balk)
-2. Tik je gewenste zoekterm in en druk op enter of klik op 'Search'. **Opgelet** Je kan momenteel enkel zoeken op titel en de zoekfunctie is hoofdlettergevoelig. ![alt text](image-6.png) ![alt text](image-7.png)
+2. Tik je gewenste zoekterm in en druk op enter of klik op 'Search'. **Opgelet** Je kan momenteel enkel zoeken op titel en de zoekfunctie is hoofdlettergevoelig. ![alt text](image-52.png) ![alt text](image-53.png)
 
 ## Hoe interpreteer ik statussen en prioriteiten?
 ### Statussen 
@@ -70,7 +70,7 @@ Je ziet hier in één oogopslag hoeveel requests er zijn, hoeveel er openstaan e
 Loop je tegen hardnekkige problemen aan of ben je je wachtwoord kwijt? Neem dan contact op met de interne IT-helpdesk via support@NovaDesk.local. 
 
 ## Belangrijkste schermen 
-- Login: ![alt text](image-8.png)
-- Dashboard: ![alt text](image-9.png)
-- Requests: ![alt text](image-10.png)
-- Nieuw request: ![alt text](image-11.png)
+- Login: ![alt text](image-54.png)
+- Dashboard: ![alt text](image-55.png)
+- Requests: ![alt text](image-56.png)
+- Nieuw request: ![alt text](image-57.png)

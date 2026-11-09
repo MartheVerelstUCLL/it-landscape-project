@@ -104,7 +104,7 @@ DATABASE_URL=sqlite:///novadesk.db
 - De requests zelf zijn geordend volgens ID, het is redelijk onoverzichtelijk
 - Het formulier om een nieuw request te maken ziet er op het eerste gezicht helder uit 
 - Ik zie de users maar kan ze niet bewerken
-- Health lijkt niet te werken ![alt text](image-2.png)
+- Health geeft enkel een JSON ![alt text](image-2.png)
 
 
 # AI
