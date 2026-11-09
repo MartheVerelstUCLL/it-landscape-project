@@ -15,7 +15,7 @@ Technische bug
 - als 'titel' en 'categorie' niet ingevuld zijn, krijg je een technische foutmelding: 500 - Something went wrong ![alt text](image-4.png)
 ### bewijsstukken
 - ![alt text](image-4.png)
-- <video controls src="docs\K-001 leeg formulier.mp4" title="Title"></video>
+- <video controls src="K-001%20leeg%20formulier.mp4" title="K-001: Leeg formulier"></video>
 - ![alt text](image-5.png)
 - ![alt text](image-6.png)
 ### reproduceerbaarheid
@@ -35,13 +35,13 @@ K-003 - Zoekfunctie geeft vreemde resultaten
 Functionele bug
 ### onderzochte stappen
 - bestaande klantnaam solaris/Solaris geeft geen resultaat ![alt text](image-7.png) ![alt text](image-8.png)
-- meerdere klantnamen ingetikt, niets geeeft het gewenste resultaat
+- meerdere klantnamen ingetikt, niets geeft het gewenste resultaat
 ### verwacht gedrag
 - zoekfunctie is niet hoofdlettergevoelig en zoekt in alle relevante velden (titel, klantnaam, eventueel ook categorie, prioriteit, status, assigned to)
 ### effectief gedrag
 - zoekfunctie zoekt enkel in titel en is hoofdlettergevoelig
 ### bewijsstukken
-<video controls src="docs\K-003 Zoekfunctie.mp4" title="Title"></video>
+<video controls src="K-003%20Zoekfunctie.mp4" title="K-003: Zoekfunctie"></video>
 
 ### reproduceerbaarheid
 - altijd reproduceerbaar: tik klantnaam in en enter, tik vervolgens woord uit titel in en enter
@@ -68,7 +68,7 @@ Usability
 ### effectief gedrag
 - user komt weer op het overzichtscherm. De net aangemaakte request staat bovenaan maar er is geen duidelijk bevestiging
 ### bewijsstukken
-- <video controls src="docs\K-002 bevestigingsmelding.mp4" title="Title"></video>
+- <video controls src="K-002%20bevestigingsmelding.mp4" title="K-002: Bevestigingsmelding"></video>
 ### reproduceerbaarheid
 - altijd reproduceerbaar: maak een nieuw request aan 
 ### impact
@@ -122,7 +122,7 @@ Rechtenprobleem
 ### effectief gedrag
 - Edit is klikbaar maar geeft een foutmelding 
 ### bewijsstukken
-- <video controls src="docs\K-004 Viewer.mp4" title="Title"></video>
+- <video controls src="K-004%20Viewer.mp4" title="K-004: Viewer"></video>
 ### reproduceerbaarheid
 - Altijd wanneer ingelogd als viewer: klik op 'Edit' bij een request
 ### impact

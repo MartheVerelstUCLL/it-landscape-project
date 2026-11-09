@@ -5,7 +5,7 @@
 - Initial commit gemaakt met de bestaande files
 
 # Virtual environment aanmaken
-- De instructies in de README zijn erg onduidelijk, zeker aangezien ik op Windows werk. Ik heb aan Gemini gevraagd hoe ik dit op Windows moet doen en die instructies overgenomen. Deze instructies heb ik gevogld om mijn virtual environment aan te maken, de dependencies te installeren en de database/seed data te initialiseren. 
+- De instructies in de README zijn erg onduidelijk, zeker aangezien ik op Windows werk. Ik heb aan Gemini gevraagd hoe ik dit op Windows moet doen en die instructies overgenomen. Deze instructies heb ik gevolgd om mijn virtual environment aan te maken, de dependencies te installeren en de database/seed data te initialiseren. 
 ## Copy-paste van Gemini: 
 " Om deze Linux/macOS terminal-commando's uit te voeren op **Windows**, gebruik je de **Opdrachtprompt (Command Prompt)** of **PowerShell**.
 
@@ -93,7 +93,7 @@ flask run
 - Ik heb gevonden dat het wachtwoord Password123 is en ingelogd met alice.admin@novadesk.local ![alt text](image-1.png)
 
 ## Omgevingsvariabelen
-- De omgevingsvariabelen zijn te vinden in env.example: FLASK_APP=run.py
+- De omgevingsvariabelen zijn te vinden in `.env.example`: FLASK_APP=run.py
 FLASK_ENV=development
 SECRET_KEY=
 DATABASE_URL=sqlite:///novadesk.db
@@ -102,7 +102,7 @@ DATABASE_URL=sqlite:///novadesk.db
 # Eerste observaties in de app
 - Ik zie een dashboard met de support requests.
 - De requests zelf zijn geordend volgens ID, het is redelijk onoverzichtelijk
-- Het formulier om een nieuw request te maekn ziet er op het eerste gezicht helder uit 
+- Het formulier om een nieuw request te maken ziet er op het eerste gezicht helder uit 
 - Ik zie de users maar kan ze niet bewerken
 - Health lijkt niet te werken ![alt text](image-2.png)
 

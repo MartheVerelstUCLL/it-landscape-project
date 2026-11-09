@@ -10,7 +10,7 @@
 - Belangrijk: categorie 'sales' (bv 'Vraag over contractverlenging'), 'billing' (bv 'Factuurgegevens aanpassen', afhankelijk van of dit gedaan wordt door sales, customer service of een andere dienst), mogelijk 'general' (bv ''Klant ontvangt geen bevestigingsmail')
 ## Teamleads 
 - Mina Jacobs
-- Specifieke aanvragen zoeken, aanvragen registereren, bugs/fouten/moeilijkheden rapporteren, detailpagina's bekijken 
+- Specifieke aanvragen zoeken, aanvragen registreren, bugs/fouten/moeilijkheden rapporteren, detailpagina's bekijken 
 - Belangrijk: categorie 'sales', 'general', mogelijk 'billing'
 ## IT support
 - Supportteam
@@ -39,4 +39,4 @@
 - CRM
 - Jira/Confluence of andere documentatietool voor de tickets
 - PowerBI tools voor dashboard
-- Identity management/authenticatietool om de rollen te behren 
+- Identity management/authenticatietool om de rollen te beheren 
